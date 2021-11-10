@@ -1,0 +1,11 @@
+﻿  itoc++_1.2.cpp
+c:\users\timul\source\repos\project2\project2\itoc++_1.2.cpp(4): error C2182: main: недопустимое использование типа "void"
+c:\users\timul\source\repos\project2\project2\itoc++_1.2.cpp(5): error C2059: синтаксическая ошибка: ;
+c:\users\timul\source\repos\project2\project2\itoc++_1.2.cpp(6): error C2059: синтаксическая ошибка: }
+c:\users\timul\source\repos\project2\project2\itoc++_1.2.cpp(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Source.cpp
+c:\users\timul\source\repos\project2\project2\source.cpp(4): error C2182: main: недопустимое использование типа "void"
+c:\users\timul\source\repos\project2\project2\source.cpp(5): error C2059: синтаксическая ошибка: ;
+c:\users\timul\source\repos\project2\project2\source.cpp(6): error C2059: синтаксическая ошибка: }
+c:\users\timul\source\repos\project2\project2\source.cpp(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Создание кода...
