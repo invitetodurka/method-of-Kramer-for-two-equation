@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+    //comment for github
     double a, b, c, d, e, f;
     double x, y;
     double det, det_x, det_y;
